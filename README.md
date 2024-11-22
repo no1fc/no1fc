@@ -2,7 +2,7 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:66fffc,100:11d803&height=180&text=Hello!%20Developer%20NamSangDo&animation=twinkling&fontColor=000000&fontSize=50" />
     </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 안녕하세요! 개발자 남상도입니다. </h2>  
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 안녕하세요! 우직한 개발자 남상도입니다. </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> 꾸준히 배우고 학습하는 개발자입니다 </div> 
     </div>
     <div style="text-align: left;">
