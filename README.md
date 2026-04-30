@@ -12,7 +12,6 @@
 
 <div style="text-align: left;">
     <h2 style="border-bottom: 2px solid #1c2541; color: #00E5FF;"> 🛠️ Tech Stacks </h2> 
-    
     <h3 style="color: #c9d1d9;">Backend</h3>
     <div align="left">
         <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
@@ -21,7 +20,6 @@
         <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white">
         <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=for-the-badge&logo=Apache Tomcat&logoColor=black">
     </div>
-
     <h3 style="color: #c9d1d9;">Frontend</h3>
     <div align="left">
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
@@ -29,7 +27,6 @@
         <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white">
         <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white">
     </div>
-
     <h3 style="color: #c9d1d9;">Database</h3>
     <div align="left">
         <img src="https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
@@ -37,7 +34,6 @@
         <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=white">
         <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white">
     </div>
-
     <h3 style="color: #c9d1d9;">Tools & Comm</h3>
     <div align="left">
         <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">
