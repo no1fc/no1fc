@@ -5,7 +5,7 @@
 <div style="text-align: left;"> 
     <h2 style="border-bottom: 2px solid #1c2541; color: #00E5FF;"> 👨‍💻 안녕하세요! 우직한 개발자 남상도입니다. </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> 
-        💡 꾸준히 배우고 학습하는 개발자입니다 
+        💡 꾸준히 배우고 학습하는 개발자
     </div> 
 </div>
 <br>
